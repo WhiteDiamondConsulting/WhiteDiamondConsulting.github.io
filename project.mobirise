@@ -4576,6 +4576,9 @@
                 "width": "100%",
                 "object-fit": "cover"
               }
+            },
+            ".mbr-text": {
+              "color": "#000000"
             }
           },
           "_name": "testimonials2",
