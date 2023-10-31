@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "White Diamond Consulting",
-    "currentPage": "page17.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -103,7 +103,7 @@
         "url": "https://fonts.googleapis.com/css?family=Bebas+Neue:400"
       }
     ],
-    "uniqCompNum": 130,
+    "uniqCompNum": 132,
     "versionPublish": "5.8.4",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -617,7 +617,7 @@
     "page1.html": {
       "settings": {
         "title": "Trish Dental Consultant",
-        "order": "3"
+        "order": "4"
       },
       "components": [
         {
@@ -1133,7 +1133,7 @@
           },
           "_name": "header11",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header11\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/diamond_quality_e937434a-7bdf-41fd-bd81-5935707348e8-2.webp\">\n            <input type=\"color\" title=\"Color\" value=\"#fafafa\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md-{{imageWidth}} image-wrapper\">\n                <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/img-3513001-1087x970.jpg\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-12 col-md\">\n                <div class=\"text-wrapper text-center\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                        <b>\n</b><div><b><br></b></div><div><br></div></h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Hello, my name is Sheena, one of the esteemed proprietors of White Diamond Consulting. With an illustrious career spanning over 33 years in the industry, I have cultivated a wealth of experience across diverse roles, including Treatment Coordinator and General Manager of a multi practice corporation. My expertise in practice management and performing audits, as well as overseeing managers and dentists, has garnered unparalleled success in delivering world-class clinical services. Continuing education is the key to success, my pursuit of professional development is unwavering. At White Diamond Consulting, our ethos is centered on driving transformative growth, helping practices elevate their performance to unprecedented levels of excellence.&nbsp;</p>\n                    <div mbr-buttons mbr-theme-style=\"display-7\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-secondary\" href=\"page21.html\" data-app-placeholder=\"Type Text\">Contact us</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"header11\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/diamond_quality_e937434a-7bdf-41fd-bd81-5935707348e8-2.webp\">\n            <input type=\"color\" title=\"Color\" value=\"#fafafa\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md-{{imageWidth}} image-wrapper\">\n                <img class=\"w-100\" src=\"@PROJECT_PATH@/assets/images/img-3513001-1087x970.jpg\" alt=\"Mobirise Website Builder\">\n            </div>\n            <div class=\"col-12 col-md\">\n                <div class=\"text-wrapper text-center\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                        <b>\n</b><div><b><br></b></div><div><br></div></h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">I'm Sheena, one of the partners at White Diamond Consulting, with a sparkling career spanning over 33 years in the dental universe.  Picture me as your friendly guide through the maze of dental intricacies!  I've navigated the dental landscape, wearing different hats - from being a compassionate Treatment Coordinator to a hands-on General/HR Manager at a bustling multi- practice corporation.\n<br>\n<br>What fuels my passion?  It's the joy of making a real difference!  I've mastered the art of practice management, conducted audits with a keen eye, and provided support to our fantastic team of managers and dentists.  My mantra?  Never stop learning.  But that's not all - I'm on a mission to spread the sparkle.  My heart lies in training, shaping Managers and Treatment Coordinators into diamonds that shine brightly in their roles.  That's why I'm  always diving into the latest educational opportunities, because staying current means offering you the best.\n<br>\n<br>At White Diamond Consulting, we're not just about transforming practices; we're about transforming people.  We're dedicated to nurturing Managers and Coordinators, empowering them with the skills to shine brilliantly in their roles.  Imagine us as your mentors, helping you discover your inner brilliance and guiding you every step of the way.\n<br>\n<br>Here at White Diamond Consulting, we're not just about business; we're about transforming dreams into smiles.  We're dedicated to helping practices reach new heights of excellence.  Imagine us as your partners in growth, your cheerleaders in success, and your friends in the ever-evolving world of dentistry.\n<br>\n<br>So, here's to new beginnings, brighter smiles, and friendships that feel just like family.  I'm thrilled to be on this journey with you, making dentistry not just a profession, but a warm and inviting community where everyone shines like a diamond.\n<br>\n<br>Warmest regards,\n<br>Sheena&nbsp;</p>\n                    <div mbr-buttons mbr-theme-style=\"display-7\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-secondary\" href=\"page21.html\" data-app-placeholder=\"Type Text\">Contact us</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "tBItLHWrEZ",
           "_anchor": "header11-x",
           "_protectedParams": [],
@@ -2053,7 +2053,7 @@
     "page15.html": {
       "settings": {
         "title": "Financial management",
-        "order": "8"
+        "order": "9"
       },
       "components": [
         {
@@ -2543,7 +2543,7 @@
     "page16.html": {
       "settings": {
         "title": "Practice management",
-        "order": "7"
+        "order": "8"
       },
       "components": [
         {
@@ -3033,7 +3033,7 @@
     "page18.html": {
       "settings": {
         "title": "Operational Management",
-        "order": "10"
+        "order": "11"
       },
       "components": [
         {
@@ -3522,7 +3522,7 @@
     "page19.html": {
       "settings": {
         "title": "Human Resources",
-        "order": "9"
+        "order": "10"
       },
       "components": [
         {
@@ -4011,7 +4011,7 @@
     "page20.html": {
       "settings": {
         "title": "Technology integration",
-        "order": "11"
+        "order": "12"
       },
       "components": [
         {
@@ -4503,7 +4503,7 @@
     "page17.html": {
       "settings": {
         "title": "Mission Statement testimonies",
-        "order": "12"
+        "order": "13"
       },
       "components": [
         {
@@ -5170,7 +5170,7 @@
     "page21.html": {
       "settings": {
         "title": "contacts",
-        "order": "13",
+        "order": "14",
         "meta_descr": ""
       },
       "components": [
@@ -5660,7 +5660,7 @@
     "page23.html": {
       "settings": {
         "title": "training and support",
-        "order": "5"
+        "order": "6"
       },
       "components": [
         {
@@ -6151,7 +6151,7 @@
     "page14.html": {
       "settings": {
         "title": "audits and assessments",
-        "order": "6"
+        "order": "7"
       },
       "components": [
         {
@@ -6642,7 +6642,7 @@
     "page24.html": {
       "settings": {
         "title": "services",
-        "order": "4"
+        "order": "5"
       },
       "components": [
         {
