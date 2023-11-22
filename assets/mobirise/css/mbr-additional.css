@@ -6,11 +6,11 @@ body {
 }
 .display-1 {
   font-family: 'Libre Baskerville', serif;
-  font-size: 2.2rem;
+  font-size: 3rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 2.75rem;
+  font-size: 3.75rem;
 }
 .display-2 {
   font-family: 'Libre Baskerville', serif;
@@ -51,14 +51,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 1.76rem;
+    font-size: 2.4rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 1.54rem;
-    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.1rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.12rem;
@@ -1108,7 +1108,7 @@ a {
   }
 }
 .cid-tCsDicQ13i .mbr-section-title {
-  text-align: left;
+  text-align: center;
   color: #2918fd;
 }
 .cid-tCsDicQ13i .mbr-text,
@@ -6906,11 +6906,11 @@ a {
   display: flex;
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/white-diamonds-the-ultimate-symbol-of-purity-and-perfection-properties-meanings-and-more-1-1000x667.jpg");
+  background-image: url("../../../assets/images/xez6dn-693x520.jpg");
 }
 .cid-tVTISywiTZ .mbr-overlay {
   background-color: #ffffff;
-  opacity: 0.5;
+  opacity: 0.7;
 }
 .cid-tVTISywiTZ .content-wrap {
   padding: 5rem 1rem;
@@ -6945,7 +6945,7 @@ a {
   }
 }
 .cid-tVTISywiTZ .mbr-section-title {
-  color: #271bbf;
+  color: #000000;
   text-align: center;
 }
 .cid-tVTISywiTZ .mbr-text,
@@ -6958,7 +6958,7 @@ a {
   text-align: right;
 }
 .cid-tVTISywiTZ P {
-  color: #271bbf;
+  color: #000000;
   text-align: left;
 }
 .cid-tVTISywiTZ .mbr-section-title DIV {
