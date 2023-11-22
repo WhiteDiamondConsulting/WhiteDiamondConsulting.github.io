@@ -5666,8 +5666,8 @@ a {
   background-image: url("../../../assets/images/istockphoto-1368752198-612x382.jpg");
 }
 .cid-tCsM7xrVBR .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.4;
+  background-color: #fafafa;
+  opacity: 0.3;
 }
 .cid-tCsM7xrVBR .content-wrap {
   padding: 5rem 1rem;
@@ -5708,7 +5708,7 @@ a {
 .cid-tCsM7xrVBR .mbr-text,
 .cid-tCsM7xrVBR .mbr-section-btn {
   text-align: left;
-  color: #ffffff;
+  color: #fafafa;
 }
 .cid-tCoeHhJuN3 {
   z-index: 1000;
