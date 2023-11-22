@@ -1120,9 +1120,6 @@ a {
   background-color: #ffffff;
 }
 .cid-sFF0SGinka .row {
-  flex-direction: row-reverse;
-}
-.cid-sFF0SGinka .row {
   align-items: center;
 }
 @media (max-width: 991px) {
@@ -5284,7 +5281,7 @@ a {
 .cid-tCsqjRA5OX {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/free-website-background-26-1920x1080.jpg");
 }
 .cid-tCsqjRA5OX .mbr-fallback-image.disabled {
   display: none;
@@ -6560,7 +6557,7 @@ a {
 }
 .cid-tCGPXXCjcu .mbr-section-title {
   text-align: center;
-  color: #240db2;
+  color: #000000;
 }
 .cid-tCGPXXCjcu .mbr-text,
 .cid-tCGPXXCjcu .mbr-section-btn {
