@@ -2333,7 +2333,11 @@ a {
 }
 .cid-tCmuuhE80R {
   display: flex;
-  background-color: #40b0bf;
+  background-image: url("../../../assets/images/free-website-background-22-1920x1080.jpg");
+}
+.cid-tCmuuhE80R .mbr-overlay {
+  background-color: #353535;
+  opacity: 0.5;
 }
 .cid-tCmuuhE80R .content-wrap {
   padding: 5rem 1rem;
@@ -2368,12 +2372,12 @@ a {
   }
 }
 .cid-tCmuuhE80R .mbr-section-title {
-  color: #fafafa;
+  color: #000000;
   text-align: center;
 }
 .cid-tCmuuhE80R .mbr-text,
 .cid-tCmuuhE80R .mbr-section-btn {
-  color: #fafafa;
+  color: #000000;
   text-align: left;
 }
 .cid-tCoeHhJuN3 {
