@@ -3989,7 +3989,11 @@ a {
 }
 .cid-tCmyhMMspt {
   display: flex;
-  background-color: #36d111;
+  background-image: url("../../../assets/images/free-website-background-25-1920x1080.jpg");
+}
+.cid-tCmyhMMspt .mbr-overlay {
+  background-color: #353535;
+  opacity: 0.5;
 }
 .cid-tCmyhMMspt .content-wrap {
   padding: 5rem 1rem;
@@ -4024,12 +4028,13 @@ a {
   }
 }
 .cid-tCmyhMMspt .mbr-section-title {
-  text-align: left;
+  text-align: center;
+  color: #000000;
 }
 .cid-tCmyhMMspt .mbr-text,
 .cid-tCmyhMMspt .mbr-section-btn {
   text-align: left;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-tCmyhMMspt .mbr-section-title DIV {
   text-align: right;
@@ -4402,14 +4407,14 @@ a {
 .cid-tCmOQBBYPa {
   padding-top: 5rem;
   padding-bottom: 1rem;
-  background-image: url("../../../assets/images/lk-teeth-harlan-copy3-slide-aff490ee37375266509f512f2ab1d61e4b0caac3-2-2000x1333.jpg");
+  background-image: url("../../../assets/images/white-diamonds-the-ultimate-symbol-of-purity-and-perfection-properties-meanings-and-more-3-1000x667.jpg");
 }
 .cid-tCmOQBBYPa .mbr-section-title {
   text-align: left;
 }
 .cid-tCmOQBBYPa .mbr-section-subtitle {
   text-align: center;
-  color: #ce8bfc;
+  color: #2918fd;
 }
 .cid-tVTXuGZ44x {
   padding-top: 5rem;
@@ -4443,6 +4448,9 @@ a {
 }
 .cid-tVTXuGZ44x .position {
   text-align: left;
+}
+.cid-tVTXuGZ44x .mbr-section-title {
+  color: #240db2;
 }
 .cid-tCmOT0dbQq {
   padding-top: 2rem;
