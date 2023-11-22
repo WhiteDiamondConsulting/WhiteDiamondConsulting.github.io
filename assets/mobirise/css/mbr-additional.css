@@ -22,11 +22,11 @@ body {
 }
 .display-4 {
   font-family: 'Libre Baskerville', serif;
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
 }
 .display-5 {
   font-family: 'Libre Baskerville', serif;
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.3 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.72rem;
-    font-size: calc( 0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.965rem + (0.9 - 0.965) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 0.8rem;
@@ -594,12 +594,12 @@ a:hover {
 }
 .form-control {
   font-family: 'Libre Baskerville', serif;
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -608,12 +608,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Libre Baskerville', serif;
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.125rem;
+  font-size: 1.25rem;
 }
 blockquote {
   border-color: #6592e6;
@@ -4405,8 +4405,8 @@ a {
   }
 }
 .cid-tCmOQBBYPa {
-  padding-top: 5rem;
-  padding-bottom: 1rem;
+  padding-top: 0rem;
+  padding-bottom: 2rem;
   background-image: url("../../../assets/images/white-diamonds-the-ultimate-symbol-of-purity-and-perfection-properties-meanings-and-more-3-1000x667.jpg");
 }
 .cid-tCmOQBBYPa .mbr-section-title {
@@ -4415,6 +4415,9 @@ a {
 .cid-tCmOQBBYPa .mbr-section-subtitle {
   text-align: center;
   color: #2918fd;
+}
+.cid-tCmOQBBYPa .mbr-section-subtitle DIV {
+  text-align: center;
 }
 .cid-tVTXuGZ44x {
   padding-top: 5rem;
@@ -4450,7 +4453,7 @@ a {
   text-align: left;
 }
 .cid-tVTXuGZ44x .mbr-section-title {
-  color: #240db2;
+  color: #2918fd;
 }
 .cid-tCmOT0dbQq {
   padding-top: 2rem;
