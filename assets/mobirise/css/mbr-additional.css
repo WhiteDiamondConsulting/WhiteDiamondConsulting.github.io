@@ -1069,8 +1069,8 @@ a {
 }
 .cid-tWoe2dTEL2 {
   display: flex;
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/diamond-quality-e937434a-7bdf-41fd-bd81-5935707348e8-18.webp");
 }
 .cid-tWoe2dTEL2 .mbr-overlay {
@@ -1088,7 +1088,7 @@ a {
     justify-content: flex-start;
   }
   .cid-tWoe2dTEL2 .content-wrap {
-    width: 88%;
+    width: 71%;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
@@ -1184,8 +1184,8 @@ a {
   color: #bbbbbb;
 }
 .cid-tWtDn9FZJv {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-tWtDn9FZJv .mbr-fallback-image.disabled {
@@ -1445,6 +1445,7 @@ a {
 }
 .cid-tWtDn9FZJv H6 {
   text-align: center;
+  color: #4479d9;
 }
 .cid-sFF0SGinka {
   background-color: #ffffff;
