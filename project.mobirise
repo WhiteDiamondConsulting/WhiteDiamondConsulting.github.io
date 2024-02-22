@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "White Diamond Consulting",
-    "currentPage": "page25.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -8578,7 +8578,7 @@
     },
     "page25.html": {
       "settings": {
-        "title": "Page 25",
+        "title": "Coupons",
         "order": "1"
       },
       "components": [
