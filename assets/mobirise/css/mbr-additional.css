@@ -6436,6 +6436,46 @@ a {
     left: -1rem;
   }
 }
+.cid-u795nIzlJJ {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/background5.jpg");
+}
+.cid-u795nIzlJJ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u795nIzlJJ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u795nIzlJJ .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-u795nIzlJJ .row {
+    flex-direction: column-reverse;
+  }
+  .cid-u795nIzlJJ .image-wrapper {
+    margin-bottom: 2rem;
+  }
+  .cid-u795nIzlJJ .card-wrapper {
+    padding: 0 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-u795nIzlJJ .card-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-u795nIzlJJ .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
 .cid-tCsNQvO3Of {
   display: flex;
   background-image: url("../../../assets/images/tan-image-what-is-an-it-audit-risk-assessment-featured.-1108x554.jpg");
