@@ -6486,55 +6486,6 @@ a {
   width: 100%;
   object-fit: cover;
 }
-.cid-tCsNQvO3Of {
-  display: flex;
-  background-image: url("../../../assets/images/tan-image-what-is-an-it-audit-risk-assessment-featured.-1108x554.jpg");
-}
-.cid-tCsNQvO3Of .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.4;
-}
-.cid-tCsNQvO3Of .content-wrap {
-  padding: 5rem 1rem;
-}
-@media (min-width: 768px) {
-  .cid-tCsNQvO3Of {
-    align-items: flex-start;
-  }
-  .cid-tCsNQvO3Of .row {
-    justify-content: flex-start;
-  }
-  .cid-tCsNQvO3Of .content-wrap {
-    width: 100%;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-tCsNQvO3Of .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-tCsNQvO3Of {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-tCsNQvO3Of .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-tCsNQvO3Of .content-wrap {
-    width: 100%;
-  }
-}
-.cid-tCsNQvO3Of .mbr-section-title {
-  text-align: left;
-  color: #ffffff;
-}
-.cid-tCsNQvO3Of .mbr-text,
-.cid-tCsNQvO3Of .mbr-section-btn {
-  text-align: left;
-  color: #ffffff;
-}
 .cid-tCoeHhJuN3 {
   z-index: 1000;
   width: 100%;
