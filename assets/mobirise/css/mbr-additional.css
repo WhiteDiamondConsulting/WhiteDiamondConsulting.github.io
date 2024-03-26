@@ -9105,3 +9105,27 @@ a {
   width: 1.6rem;
   line-height: 1.2;
 }
+.cid-u85jUoMZat {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-u85jUoMZat .counter-container ul {
+  margin: 0;
+  list-style: none;
+  padding-left: 2.5rem;
+}
+.cid-u85jUoMZat .counter-container ul li {
+  margin-bottom: 1rem;
+  position: relative;
+}
+.cid-u85jUoMZat .counter-container ul li:before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+  line-height: 1.2;
+}

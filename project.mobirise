@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "White Diamond Consulting",
-    "currentPage": "index.html",
+    "currentPage": "page28.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -103,7 +103,7 @@
         "url": "https://fonts.googleapis.com/css?family=Bebas+Neue:400"
       }
     ],
-    "uniqCompNum": 220,
+    "uniqCompNum": 221,
     "versionPublish": "5.8.4",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -10433,6 +10433,76 @@
           "_anchor": "content8-63",
           "_isUserblock": true,
           "_cid": "u84OiNiikV",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "ul": {
+                "margin": "0",
+                "list-style": "none",
+                "padding-left": "2.5rem",
+                "li": {
+                  "margin-bottom": "1rem",
+                  "position": "relative",
+                  "& when (@stylizedCounters)": {
+                    "list-style": "none",
+                    "position": "relative",
+                    "padding-left": "1rem",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "-40px",
+                      "content": "\"\"",
+                      "display": "flex",
+                      "justify-content": "center",
+                      "align-items": "center",
+                      "color": "contrast(@iconColor)",
+                      "background-color": "@iconColor",
+                      "width": "40px",
+                      "height": "40px",
+                      "border-radius": "50%",
+                      "margin-top": "5px",
+                      "& when (@countersType = \"circle\")": {
+                        "background": "none",
+                        "border": "1px solid @iconColor",
+                        "color": "@iconColor"
+                      },
+                      "& when (@countersType = \"square\")": {
+                        "border-radius": "0"
+                      },
+                      "& when (@mark)": {
+                        "content": "\"✓\""
+                      }
+                    }
+                  },
+                  "& when not (@stylizedCounters)": {
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "-1.6rem",
+                      "content": "\"\\2022\"",
+                      "color": "@iconColor",
+                      "font-weight": "bold",
+                      "font-size": "2rem",
+                      "width": "1.6rem",
+                      "line-height": "1.2"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_name": "content8",
+          "_sourceTheme": "mobirise5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content8\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"8\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Stylized\" name=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>\n        <input type=\"color\" name=\"iconColor\" title=\"Color\" value=\"#6592e6\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"counter-container col-md-12 col-lg-{{textWidth}}\">\n                <h4 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with the Mobirise app.\n                </h4>\n                <div class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                    <ul>\n                        <li><b>Cute Cartoon Tooth Colouring Pages for kids&nbsp;</b><a href=\"https://iheartcraftythings.com/tooth-coloring-pages.html\" class=\"text-primary\">Get it now!</a></li>\n                        <li><b>Mouth Healthy ADA Puzzles and activity sheets for kids</b>. <a href=\"https://www.mouthhealthy.org/resources/activity-sheets/puzzles\" class=\"text-primary\">Get it now!</a></li>\n                        <li><b>Educational Kids Dental Story Colouring book</b>&nbsp;<a href=\"https://www.teacherspayteachers.com/Product/FREE-dental-health-mini-book-553551\" class=\"text-primary\">Get it now!</a></li>\n                    </ul>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "u85jUoMZat",
+          "_anchor": "content8-64",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
