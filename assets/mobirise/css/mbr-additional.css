@@ -8948,7 +8948,7 @@ a {
 }
 .cid-u84Mxo3CLg {
   padding-top: 4rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-u84Mxo3CLg .counter-container ul {
@@ -8974,8 +8974,8 @@ a {
   text-align: center;
 }
 .cid-u84MxMvrc2 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-u84MxMvrc2 .counter-container ul {
@@ -8998,8 +8998,8 @@ a {
   line-height: 1.2;
 }
 .cid-u84My5RfMY {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-u84My5RfMY .counter-container ul {
@@ -9022,8 +9022,8 @@ a {
   line-height: 1.2;
 }
 .cid-u84OiNiikV {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-u84OiNiikV .counter-container ul {
@@ -9046,8 +9046,8 @@ a {
   line-height: 1.2;
 }
 .cid-u85jUoMZat {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-u85jUoMZat .counter-container ul {
@@ -9060,6 +9060,78 @@ a {
   position: relative;
 }
 .cid-u85jUoMZat .counter-container ul li:before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+  line-height: 1.2;
+}
+.cid-u8b2lTruf1 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-u8b2lTruf1 .counter-container ul {
+  margin: 0;
+  list-style: none;
+  padding-left: 2.5rem;
+}
+.cid-u8b2lTruf1 .counter-container ul li {
+  margin-bottom: 1rem;
+  position: relative;
+}
+.cid-u8b2lTruf1 .counter-container ul li:before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+  line-height: 1.2;
+}
+.cid-u8b2m7zOsy {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-u8b2m7zOsy .counter-container ul {
+  margin: 0;
+  list-style: none;
+  padding-left: 2.5rem;
+}
+.cid-u8b2m7zOsy .counter-container ul li {
+  margin-bottom: 1rem;
+  position: relative;
+}
+.cid-u8b2m7zOsy .counter-container ul li:before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #6592e6;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+  line-height: 1.2;
+}
+.cid-u8b2muZo1F {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-u8b2muZo1F .counter-container ul {
+  margin: 0;
+  list-style: none;
+  padding-left: 2.5rem;
+}
+.cid-u8b2muZo1F .counter-container ul li {
+  margin-bottom: 1rem;
+  position: relative;
+}
+.cid-u8b2muZo1F .counter-container ul li:before {
   position: absolute;
   left: -1.6rem;
   content: "\2022";
