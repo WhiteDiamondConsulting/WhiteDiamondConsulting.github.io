@@ -4809,7 +4809,7 @@ a {
   color: #130c6d;
 }
 .cid-tCmOT0dbQq {
-  padding-top: 2rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/free-website-background-28-1920x1080.jpg");
 }
@@ -5265,6 +5265,36 @@ a {
   overflow: hidden;
 }
 .cid-tD9QBqBWgw .image-wrapper img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.cid-ucbQXQHCda {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/free-website-background-43-1920x1080.jpg");
+}
+.cid-ucbQXQHCda .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ucbQXQHCda .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ucbQXQHCda .image-wrapper {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-top: 5px;
+  margin-right: 1rem;
+  overflow: hidden;
+}
+.cid-ucbQXQHCda .image-wrapper img {
   height: 100%;
   width: 100%;
   object-fit: cover;
