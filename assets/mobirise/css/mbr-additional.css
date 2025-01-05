@@ -11969,3 +11969,31 @@ a {
 .cid-uyQlZoc4oJ .mbr-section-title {
   color: #232323;
 }
+.cid-uz2gTyNWBW {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+.cid-uz2gTyNWBW .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uz2gTyNWBW .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  background-image: url("../../../assets/images/background13.jpg");
+}
+.cid-uz2gTyNWBW .video-wrapper iframe {
+  width: 100%;
+}
+.cid-uz2gTyNWBW .mbr-section-title,
+.cid-uz2gTyNWBW .mbr-section-subtitle,
+.cid-uz2gTyNWBW .mbr-text {
+  text-align: center;
+}
+.cid-uz2gTyNWBW .mbr-section-title {
+  color: #fafafa;
+}
