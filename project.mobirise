@@ -30,13 +30,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#7c3fa6",
         "#0a5888",
         "#0c72b1",
         "#3a75e0",
         "#34bfd7",
         "#c7bece",
-        "#8b5dab",
-        "#005d6d"
+        "#8b5dab"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -594,11 +594,11 @@
             },
             ".mbr-section-title": {
               "text-align": "left",
-              "color": "#1406c2"
+              "color": "#7c3fa6"
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left",
-              "color": "#1406c2"
+              "color": "#7c3fa6"
             }
           },
           "_name": "header4",
