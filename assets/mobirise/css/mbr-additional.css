@@ -6918,9 +6918,7 @@ a {
 }
 .cid-tCGPXXCjcu {
   display: flex;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/diamond-quality-e941fd-bd81-5935707348e8-1-1322x1023.jpg");
+  background-image: url("../../../assets/images/may-23-2025-12-27-41-pm-1024x1024.png");
 }
 .cid-tCGPXXCjcu .mbr-overlay {
   background-color: #ffffff;
@@ -6931,7 +6929,7 @@ a {
 }
 @media (min-width: 768px) {
   .cid-tCGPXXCjcu {
-    align-items: flex-end;
+    align-items: flex-start;
   }
   .cid-tCGPXXCjcu .row {
     justify-content: flex-start;
