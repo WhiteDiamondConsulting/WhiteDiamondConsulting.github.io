@@ -3097,7 +3097,7 @@ a {
   background-image: url("../../../assets/images/free-website-background-21-1920x1080.jpg");
 }
 .cid-tCmsWakfxF .mbr-overlay {
-  background-color: #353535;
+  background-color: #ffffff;
   opacity: 0.5;
 }
 .cid-tCmsWakfxF .content-wrap {
@@ -6918,7 +6918,9 @@ a {
 }
 .cid-tCGPXXCjcu {
   display: flex;
-  background-image: url("../../../assets/images/may-23-2025-12-27-41-pm-1024x1024.png");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/diamond-quality-e941fd-bd81-5935707348e8-1-1322x1023.jpg");
 }
 .cid-tCGPXXCjcu .mbr-overlay {
   background-color: #ffffff;
@@ -6929,7 +6931,7 @@ a {
 }
 @media (min-width: 768px) {
   .cid-tCGPXXCjcu {
-    align-items: flex-start;
+    align-items: flex-end;
   }
   .cid-tCGPXXCjcu .row {
     justify-content: flex-start;
