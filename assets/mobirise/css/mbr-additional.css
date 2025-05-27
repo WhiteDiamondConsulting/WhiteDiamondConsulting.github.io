@@ -6859,10 +6859,10 @@ a {
 }
 @media (min-width: 768px) {
   .cid-uMq0KNzCnL {
-    align-items: flex-end;
+    align-items: center;
   }
   .cid-uMq0KNzCnL .row {
-    justify-content: flex-start;
+    justify-content: center;
   }
   .cid-uMq0KNzCnL .content-wrap {
     width: 100%;
