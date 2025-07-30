@@ -9925,6 +9925,31 @@ a {
 .cid-uz2gTyNWBW .mbr-section-title {
   color: #fafafa;
 }
+.cid-uSsfIRaOD9 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-uSsfIRaOD9 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uSsfIRaOD9 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uSsfIRaOD9 .video-wrapper iframe {
+  width: 100%;
+}
+.cid-uSsfIRaOD9 .mbr-section-title,
+.cid-uSsfIRaOD9 .mbr-section-subtitle,
+.cid-uSsfIRaOD9 .mbr-text {
+  text-align: center;
+}
 .cid-tCoeHhJuN3 {
   z-index: 1000;
   width: 100%;
